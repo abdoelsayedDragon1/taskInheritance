@@ -1,0 +1,14 @@
+D:\on zero\My Second Home\Co.Net\the tasks\task5\task5\bin\Debug\net8.0\task5.exe
+D:\on zero\My Second Home\Co.Net\the tasks\task5\task5\bin\Debug\net8.0\task5.deps.json
+D:\on zero\My Second Home\Co.Net\the tasks\task5\task5\bin\Debug\net8.0\task5.runtimeconfig.json
+D:\on zero\My Second Home\Co.Net\the tasks\task5\task5\bin\Debug\net8.0\task5.dll
+D:\on zero\My Second Home\Co.Net\the tasks\task5\task5\bin\Debug\net8.0\task5.pdb
+D:\on zero\My Second Home\Co.Net\the tasks\task5\task5\obj\Debug\net8.0\task5.GeneratedMSBuildEditorConfig.editorconfig
+D:\on zero\My Second Home\Co.Net\the tasks\task5\task5\obj\Debug\net8.0\task5.AssemblyInfoInputs.cache
+D:\on zero\My Second Home\Co.Net\the tasks\task5\task5\obj\Debug\net8.0\task5.AssemblyInfo.cs
+D:\on zero\My Second Home\Co.Net\the tasks\task5\task5\obj\Debug\net8.0\task5.csproj.CoreCompileInputs.cache
+D:\on zero\My Second Home\Co.Net\the tasks\task5\task5\obj\Debug\net8.0\task5.dll
+D:\on zero\My Second Home\Co.Net\the tasks\task5\task5\obj\Debug\net8.0\refint\task5.dll
+D:\on zero\My Second Home\Co.Net\the tasks\task5\task5\obj\Debug\net8.0\task5.pdb
+D:\on zero\My Second Home\Co.Net\the tasks\task5\task5\obj\Debug\net8.0\task5.genruntimeconfig.cache
+D:\on zero\My Second Home\Co.Net\the tasks\task5\task5\obj\Debug\net8.0\ref\task5.dll
